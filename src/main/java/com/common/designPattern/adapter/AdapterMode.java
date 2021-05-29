@@ -1,4 +1,4 @@
-package com.common.designPattern;
+package com.common.designPattern.adapter;
 
 /**
  * 适配器模式

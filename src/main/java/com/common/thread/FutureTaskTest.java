@@ -9,7 +9,6 @@ import java.util.concurrent.FutureTask;
  * @date 2021/4/22
  */
 public class FutureTaskTest {
-
     public static void main(String[] args) throws ExecutionException, InterruptedException {
 
         Callable<Integer> callable = new Callable<Integer>() {
